@@ -15,9 +15,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=49gqydrs74le2brtqotg7xozu&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=49gqydrs74le2brtqotg7xozu&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile">
-  </a>
-</div>
